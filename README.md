@@ -31,3 +31,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Shopping list
 ![image](https://user-images.githubusercontent.com/38702501/104229945-edf20c00-5472-11eb-8eb0-3ed0b711cedb.png)
+
+# Adding new Recipe to the list.
+![image](https://user-images.githubusercontent.com/38702501/104230357-7a9cca00-5473-11eb-81ab-093685fd8bdf.png)
+
