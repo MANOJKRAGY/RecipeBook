@@ -1,3 +1,12 @@
+# About the Application
+This application purpose is to give a free tool to the food blogger to upload the food recipe and its ingredients its descriptions its speciality and its image.
+User can visit the website to get the information about the trending food in the market.
+User can see the Ingredients list and can put it into the shopping list , and can try the recipe at their home.
+
+#Technologies used
+
+Angular framework , HTML CSS ,javascript , angular modules.
+
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
