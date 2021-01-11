@@ -28,3 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # images of the application
 ![image](https://user-images.githubusercontent.com/38702501/104229644-8c31a200-5472-11eb-86af-2c6b2af67444.png)
+
+# Shopping list
+![image](https://user-images.githubusercontent.com/38702501/104229945-edf20c00-5472-11eb-8eb0-3ed0b711cedb.png)
