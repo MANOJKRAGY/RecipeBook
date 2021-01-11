@@ -35,3 +35,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Adding new Recipe to the list.
 ![image](https://user-images.githubusercontent.com/38702501/104230357-7a9cca00-5473-11eb-81ab-093685fd8bdf.png)
 
+# Authentication for new user 
+password 6 character long, valid email is required.
+![image](https://user-images.githubusercontent.com/38702501/104230710-ee3ed700-5473-11eb-8f60-af189b64ff6c.png)
+
