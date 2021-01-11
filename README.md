@@ -3,7 +3,7 @@ This application purpose is to give a free tool to the food blogger to upload th
 User can visit the website to get the information about the trending food in the market.
 User can see the Ingredients list and can put it into the shopping list , and can try the recipe at their home.
 
-#Technologies used
+# Technologies used
 
 Angular framework , HTML CSS ,javascript , angular modules.
 
